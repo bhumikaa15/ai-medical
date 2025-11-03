@@ -1,0 +1,24 @@
+streamlit==1.39.0
+pymupdf==1.24.8
+pillow==10.4.0
+transformers==4.44.2
+torch==2.3.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pytesseract==0.3.13
+regex==2024.9.11
+spacy==3.7.5
+googletrans==4.0.0rc1
+plotly==5.24.1
+pandas==2.2.3
+
+if your app uses these features(optional) 
+If you use speech recognition or Whisper, also add:
+openai-whisper==20231117
+soundfile==0.12.1
+
+if you use Flask API integration:
+flask==3.0.3
+flask-cors==4.0.1
+
+
